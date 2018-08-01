@@ -48,6 +48,7 @@ Swagger2|接口文档|2.7.0
 
 - 1.开启MySQL服务
 - 2.执行sql/jetfire.sql脚本
-- 3.启动JetfireApplication
-- 4.登陆界面地址：http://localhost:808   (账号/密码：admin/admin123)
+- 3.修改application-druid.yml中spring.datasource.url、username、password
+- 4.启动JetfireApplication
+- 5.登陆界面地址：http://localhost:808   (账号/密码：admin/admin123)
 
