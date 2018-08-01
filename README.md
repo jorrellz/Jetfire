@@ -44,3 +44,10 @@ Swagger2|接口文档|2.7.0
 15. 在线构建器：拖动表单元素生成相应的HTML代码。
 16. 连接池监视：监视当期系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
 
+## 演示步骤
+
+- 1.开启MySQL服务
+- 2.执行sql/jetfire.sql脚本
+- 3.启动JetfireApplication
+- 4.登陆界面地址：http://localhost:808   (账号/密码：admin/admin123)
+
