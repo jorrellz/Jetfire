@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>Jetfire</name>
-	<description>Jetfire管理系统</description>
+	<description>Jetfire后台管理系统</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

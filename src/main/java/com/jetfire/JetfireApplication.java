@@ -19,7 +19,7 @@ public class JetfireApplication
     {
         // System.setProperty("spring.devtools.restart.enabled", "false");
         SpringApplication.run(JetfireApplication.class, args);
-        System.out.println("(♥◠‿◠)ﾉﾞ  Jetfire启动成功   ლ(´ڡ`ლ)ﾞ ";
+        System.out.println("(♥◠‿◠)ﾉﾞ  Jetfire启动成功   ლ(´ڡ`ლ)ﾞ ");
             
     }
 }

@@ -25,7 +25,7 @@ public class CaptchaValidateFilter extends AccessControlFilter
     /**
      * 验证码类型
      */
-    private String captchaType = "math";
+    private String captchaType = "char";
 
     public void setCaptchaEbabled(boolean captchaEbabled)
     {
